@@ -1,4 +1,4 @@
-# Erate die Zahl
+# Errate die Zahl
 ## A game for you and your friends!
 
 
