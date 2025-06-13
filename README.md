@@ -1,4 +1,4 @@
-# Rate Game
+# Erate die Zahl
 ## A game for you and your friends!
 
 
