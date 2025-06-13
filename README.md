@@ -2,7 +2,7 @@
 ## A game for you and your friends!> 
 
 
-[!NOTE]
+>[!NOTE]
 >This game needs to be compiled.
 > Save the repo in a folder on your computer,
 > go to a CMD interface on your device and type:
