@@ -1,5 +1,5 @@
 # Rate Game
-## A game for you and your friends!> 
+## A game for you and your friends!
 
 
 >[!NOTE]
